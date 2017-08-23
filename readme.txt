@@ -7,3 +7,5 @@ add 5th line for 5th commit
 add 6th line for 6th commit
 Add another line for master
 Add another line for master2
+
+Add another line for master3
